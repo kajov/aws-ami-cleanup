@@ -29,6 +29,11 @@ The script uses the AWS SDK for Python (Boto3) to perform the following tasks:
   ```bash
   pip install boto3
   ```
+- install with requirements.txt
+  ```bash
+  pip install -r requirements.txt
+  ```
+  
 ### Running the Script
   1. Set up the required environment variables mentioned above.
   2. Install the necessary Python modules using the provided pip install command.
