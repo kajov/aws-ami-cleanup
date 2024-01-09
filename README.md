@@ -17,7 +17,8 @@ The script uses the AWS SDK for Python (Boto3) to perform the following tasks:
 
 - `AWS_PROFILE`: The AWS profile name with appropriate permissions.
 - `AWS_REGION`: The AWS region where the AMIs and snapshots are located.
-- `CLUSTER_NAME`: (Optional) Cluster name, if applicable.
+
+[//]: # (- `CLUSTER_NAME`: &#40;Optional&#41; Cluster name, if applicable.)
 
 ### Expected Pip Modules
 
