@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/D5612AQERySmtAVp7kQ/article-cover_image-shrink_600_2000/0/1680275682788?e=2147483647&v=beta&t=E7UEu2xOneY6O7S5Ud09E2YglQa_d9ZZGhIoZOmp9aI" alt="AWS Cloud" width="200" height="200" />
+<img src="https://media.licdn.com/dms/image/D5612AQERySmtAVp7kQ/article-cover_image-shrink_600_2000/0/1680275682788?e=2147483647&v=beta&t=E7UEu2xOneY6O7S5Ud09E2YglQa_d9ZZGhIoZOmp9aI" alt="AWS Cloud" width="250" height="250" />
 # AMI and Snapshot Management Script 
 
 This Python script allows you to manage Amazon Machine Images (AMIs) and their associated snapshots on AWS.
