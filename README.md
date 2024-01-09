@@ -1,4 +1,4 @@
-![AWS](https://static-00.iconduck.com/assets.00/general-awscloud-icon-1024x1024-cb3xiouy.png)
+<img src="https://www.rolustech.com/wp-content/uploads/2021/01/AWS.jpg" alt="AWS Cloud" width="400" height="200" />
 # AMI and Snapshot Management Script
 
 This Python script allows you to manage Amazon Machine Images (AMIs) and their associated snapshots on AWS.
