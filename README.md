@@ -28,7 +28,11 @@ The script uses the AWS SDK for Python (Boto3) to perform the following tasks:
 ### Running the Script
   1. Set up the required environment variables mentioned above.
   2. Install the necessary Python modules using the provided pip install command.
-  3. Run the script:
+  3. Populate the map for the known names of the AMIs that you are using
+  - ```python3
+     known_amis = ['ami-name1, ami-name2, ami-name3, ami-name4...']
+    ```
+  4. Run the script:
 - ```bash
   python remove-amis.py [--debug]
   ```
