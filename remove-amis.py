@@ -159,7 +159,6 @@ def main():
     sts_client = session.client('sts')
     response = sts_client.get_caller_identity()
     owner_id = response['Account']
-    ec2 = session.resource('ec2')
     ec2_client = session.client('ec2')
 
     response = ec2_client.describe_images(Owners=[owner_id])
