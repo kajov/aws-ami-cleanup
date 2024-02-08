@@ -1,5 +1,6 @@
-
 <img src="https://media.licdn.com/dms/image/D5612AQERySmtAVp7kQ/article-cover_image-shrink_600_2000/0/1680275682788?e=2147483647&v=beta&t=E7UEu2xOneY6O7S5Ud09E2YglQa_d9ZZGhIoZOmp9aI" alt="AWS Cloud" width="250" height="200" />
+
+[![Quality gate](https://q0pag5bxw8.loclx.io/api/project_badges/quality_gate?project=ka.jov_aws-ami-cleanup_f885e82f-ed7d-4fe6-b3a2-ff7bd4353142&token=sqb_0958f75c44691d25ac48a59d8ab71b7420854f67)](https://q0pag5bxw8.loclx.io/dashboard?id=ka.jov_aws-ami-cleanup_f885e82f-ed7d-4fe6-b3a2-ff7bd4353142)
 
 # AMI and Snapshot Management Script 
 
